@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/banner_webp_optmized.webp" alt="Tutankhamal Banner" width="100%" style="border-radius: 8px;">
+  <img src="/profile/banner_webp_optmized.webp" alt="Tutankhamal Banner" width="100%" style="border-radius: 8px;">
   
   <br />
   <br />
